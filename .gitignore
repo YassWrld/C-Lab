@@ -1,0 +1,10 @@
+# Ignore executables and build artifacts
+*/raytracing
+*/bouncing
+*/app
+*.exe
+*.o
+*.out
+
+# Ignore Makefiles
+**/Makefile
